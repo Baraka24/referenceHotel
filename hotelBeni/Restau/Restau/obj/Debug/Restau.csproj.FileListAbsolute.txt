@@ -1,0 +1,17 @@
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\bin\Debug\Restau.exe.config
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\bin\Debug\Restau.exe
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\bin\Debug\Restau.pdb
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.csprojResolveAssemblyReference.cache
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.Form1.resources
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.Properties.Resources.resources
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.csproj.GenerateResource.Cache
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.exe
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.pdb
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.AccueilUC.resources
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.CategoriesUC.resources
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.ProduitsUC.resources
+C:\Users\bkinywa\Desktop\hotelBeni\Restau\Restau\obj\Debug\Restau.VenteUC.resources
+E:\C#Projects\LaReferenceBeni\hotelBeni\Restau\Restau\bin\Debug\Restau.exe.config
+E:\C#Projects\LaReferenceBeni\hotelBeni\Restau\Restau\obj\Debug\Restau.exe
+E:\C#Projects\LaReferenceBeni\hotelBeni\Restau\Restau\obj\Debug\Restau.pdb
